@@ -3,8 +3,10 @@
 This repository documents my practical cybersecurity homelab built for blue-team learning, system administration, log analysis, SIEM monitoring, vulnerability management, and incident response practice.
 
 ## Start Here
+## Documentation
 
 - [Lab Overview](docs/00-lab-overview.md)
+- [Wazuh SIEM Deployment](docs/06-wazuh-siem-deployment.md)
 
 ## Lab Purpose
 
