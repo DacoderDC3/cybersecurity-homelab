@@ -70,7 +70,7 @@ So far, this lab has involved:
 
 The current focus is Wazuh deployment and monitoring.
 
-The next major milestone is to collect logs from lab systems into a central security monitoring platform and begin building detection and investigation workflows.
+The next major milestone is to collect logs from lab systems into a central security monitoring platform and begin building detection and investigation workflows before moving on to Vulnerability scanning.
 
 ## Planned Lab Roadmap
 
@@ -81,7 +81,7 @@ The next major milestone is to collect logs from lab systems into a central secu
 | Phase 3 | Windows admin workstation setup | Complete |
 | Phase 4 | SSH and remote administration | Complete |
 | Phase 5 | Centralised logging | Complete |
-| Phase 6 | Wazuh SIEM deployment | In progress |
+| Phase 6 | Wazuh SIEM deployment | Complete |
 | Phase 7 | Vulnerability scanning | Planned |
 | Phase 8 | Incident response exercises | Planned |
 | Phase 9 | Reporting and GRC-style documentation | Planned |
