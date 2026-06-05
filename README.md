@@ -2,6 +2,10 @@
 
 This repository documents my practical cybersecurity homelab built for blue-team learning, system administration, log analysis, SIEM monitoring, vulnerability management, and incident response practice.
 
+## Start Here
+
+- [Lab Overview](docs/00-lab-overview.md)
+
 ## Lab Purpose
 
 The purpose of this lab is to build hands-on skills in:
@@ -23,7 +27,7 @@ The purpose of this lab is to build hands-on skills in:
 | Admin Workstation | Windows 11 Pro laptop |
 | Linux Server | Ubuntu Server |
 | Linux Client | Ubuntu Desktop / CLI VM |
-| Planned SIEM | Wazuh |
+| Deployed SIEM | Wazuh |
 | Planned Scanning Tools | Nmap, vulnerability scanning tools |
 | Documentation Platform | GitHub |
 
@@ -36,7 +40,7 @@ The purpose of this lab is to build hands-on skills in:
 - [x] SSH tested between Linux systems
 - [x] Snapshot and rollback workflow started
 - [x] Centralised logging preparation started
-- [ ] Wazuh deployment
+- [x] Wazuh deployment
 - [ ] Vulnerability scanning
 - [ ] Incident response exercises
 - [ ] Reporting and documentation templates
