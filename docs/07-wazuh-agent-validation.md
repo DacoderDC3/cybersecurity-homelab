@@ -7,7 +7,7 @@ document what Wazuh detected
 explain what the event means
 include sanitized screenshots
 
-Wazuh SSH Detection Validation
+## Wazuh SSH Detection Validation
 
 Objective
 
