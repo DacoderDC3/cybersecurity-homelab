@@ -82,9 +82,10 @@ The next major milestone is to collect logs from lab systems into a central secu
 | Phase 4 | SSH and remote administration | Complete |
 | Phase 5 | Centralised logging | Complete |
 | Phase 6 | Wazuh SIEM deployment | Complete |
-| Phase 7 | Vulnerability scanning | Planned |
-| Phase 8 | Incident response exercises | Planned |
-| Phase 9 | Reporting and GRC-style documentation | Planned |
+| Phase 7 | Wazuh SSH detection validation | Complete |
+| Phase 8 | Vulnerability scanning | Planned |
+| Phase 9 | Incident response exercises | Planned |
+| Phase 10 | Reporting and GRC-style documentation | Planned |
 
 ## Documentation Standard
 
