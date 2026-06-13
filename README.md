@@ -7,6 +7,7 @@ This repository documents my practical cybersecurity homelab built for blue-team
 
 - [Lab Overview](docs/00-lab-overview.md)
 - [Wazuh SIEM Deployment](docs/06-wazuh-siem-deployment.md)
+- [Wazuh SSH Detection Validation](docs/07-wazuh-agent-validation.md)
 
 ## Lab Purpose
 
